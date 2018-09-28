@@ -1,0 +1,16 @@
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\PayPal.dll
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\PayPalCoreSDK.dll
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\RestApiSDK.dll
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\PayPal.xml
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\BankLibrary.dll
+C:\Users\ЛебедевВ\source\repos\Bank\Bank\bin\Debug\BankLibrary.pdb

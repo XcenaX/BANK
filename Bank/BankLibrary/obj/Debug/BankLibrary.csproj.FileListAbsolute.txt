@@ -1,0 +1,6 @@
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\ЛебедевВ\source\repos\Bank\BankLibrary\obj\Debug\BankLibrary.pdb
