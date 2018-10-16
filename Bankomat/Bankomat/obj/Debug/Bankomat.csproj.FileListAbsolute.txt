@@ -1,0 +1,45 @@
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\AccountName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\ClassLibrary2.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\ClientName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\AccountName.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\ClassLibrary2.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\bin\Debug\ClientName.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\77077\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.csprojResolveAssemblyReference.cache
+C:\Users\77077\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\77077\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\AccountName.dll
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\ClassLibrary2.dll
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\ClientName.dll
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\AccountName.pdb
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\ClassLibrary2.pdb
+C:\Users\77077\Desktop\Bankomat\Bankomat\bin\Debug\ClientName.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\AccountName.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\ClassLibrary2.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\ClientName.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\AccountName.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\ClassLibrary2.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\bin\Debug\ClientName.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CopyComplete
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\КалиаскарР\Desktop\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\ЛебедевВ\source\repos\Bankomat\Bankomat\bin\Debug\Bankomat.pdb

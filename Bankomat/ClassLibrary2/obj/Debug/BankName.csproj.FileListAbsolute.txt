@@ -1,0 +1,20 @@
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\AccountName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\ClientName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\AccountName.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\bin\Debug\ClientName.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\obj\Debug\BankName.csprojResolveAssemblyReference.cache
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\AccountName.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\ClientName.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\AccountName.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\bin\Debug\ClientName.pdb
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\obj\Debug\BankName.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\obj\Debug\BankName.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\obj\Debug\BankName.csproj.CopyComplete
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\КалиаскарР\Desktop\Bankomat\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

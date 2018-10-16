@@ -1,0 +1,5 @@
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClientName\bin\Debug\ClientName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClientName\bin\Debug\ClientName.pdb
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClientName\obj\Debug\ClientName.csprojResolveAssemblyReference.cache
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClientName\obj\Debug\ClientName.dll
+C:\Users\77077\documents\visual studio 2017\Projects\Bankomat\ClientName\obj\Debug\ClientName.pdb
